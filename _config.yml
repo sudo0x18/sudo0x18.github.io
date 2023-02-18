@@ -24,7 +24,7 @@ title: Jay Vadhaiya                          # the main title
 tagline: Malware Analysis Enthusiast   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A Malware Analysis & Reverse Engineering enthusiast. Learning to secure the organizations from unintentional bad actors. Looking for opportunities for gaining knowledge and experience.
+  Blog on Malware Analysis & Cyber Security
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://sudo0x18.github.io/'
