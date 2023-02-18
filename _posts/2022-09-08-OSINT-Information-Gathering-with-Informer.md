@@ -1,6 +1,6 @@
 ---
 title: OSINT Information Gathering with Informer
-date: 2023-02-18
+date: 2022-09-08
 categories: [Recon, OSINT]
 tags: [recon, osint]     # TAG names should always be lowercase
 ---
