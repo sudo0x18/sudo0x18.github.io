@@ -21,9 +21,9 @@ order: 4
 
 <div style="display:flex;">
 
-<img align="center" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=sudo0x18&show_icons=true&locale=en" alt="jayvadhaiya" />
+<img align="center" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=sudo0x18&show_icons=true" alt="jayvadhaiya" />
 
-<img align="center" style="padding-left: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=sudo0x18&" alt="jayvadhaiya" />
+<img align="center" style="padding-left: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=sudo0x18" alt="jayvadhaiya" />
 
 </div>
 
