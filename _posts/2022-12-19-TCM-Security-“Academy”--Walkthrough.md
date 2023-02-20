@@ -3,6 +3,7 @@ title: TCM Security “Academy” — Walkthrough
 date: 2022-12-19
 categories: [Walkthrough, RedTeam]
 tags: [red-team, walkthrough]     # TAG names should always be lowercase
+comments: true
 ---
 
 Greetings of the day everyone. In today’s article we are going to walkthrough one of best machines of TCM Security Capstone Challenges from Practical Ethical Hacking Course. I am using VMWare Workstation as a hypervisor technology, Kali Linux as a attacking machine and academy vulnerable machine as a victim.
