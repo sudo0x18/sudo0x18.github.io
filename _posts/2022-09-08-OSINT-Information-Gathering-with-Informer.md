@@ -3,6 +3,8 @@ title: OSINT Information Gathering with Informer
 date: 2022-09-08
 categories: [Recon, OSINT]
 tags: [recon, osint]     # TAG names should always be lowercase
+layout: default
+comments: true
 ---
 
 As everyone knows information gathering in cyber security and ethical hacking is very important. The more you know about the target, the more success you will get. We are going to see information gathering with a very good tool called informer based on OSINT.
