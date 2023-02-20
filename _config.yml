@@ -19,12 +19,11 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Jay Vadhaiya                          # the main title
+title: "Unmasking the Cyber Underworld: A Journey through Malware Analysis and Cybersecurity Defense"                          # the main title
 
-tagline: Malware Analysis Enthusiast   # it will display as the sub-title
+tagline: Unlocking the Secrets of Cybersecurity and Malware Defense - Your Ultimate Resource for Digital Protection   # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
-  Blog on Malware Analysis & Cyber Security
+description: Welcome to our cyber security and malware analysis blog, where we delve deep into the world of digital threats and explore the latest trends in cybersecurity defense. Our expert team of analysts provide valuable insights and practical advice to help you safeguard your digital assets against malicious attacks. From malware detection and analysis to data breach prevention and incident response, we cover it all. Join us on this exciting journey as we unravel the mysteries of the cyber underworld and equip you with the knowledge and tools to stay safe in today's digital landscape.                        # used by seo meta and the atom feed
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://sudo0x18.github.io/'
