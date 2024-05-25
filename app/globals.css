@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.prompt-icon:before {
+    content: attr(data-prompt);
+    margin: 0px 5px;
+}
+
+.greenText {
+    color: rgb(128, 217, 50);
+}

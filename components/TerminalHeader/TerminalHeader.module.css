@@ -1,0 +1,40 @@
+.terminal_header {
+    border-bottom: 1px solid black;
+}
+
+.terminal_header_text {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+
+.terminal_window_buttons {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+}
+
+.terminal_window_buttons button {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: 0;
+}
+
+.terminal_window_buttons button.clickable {
+    cursor: pointer;
+}
+
+.terminal_window_buttons button.red_btn {
+    background: #d9515d;
+}
+
+.terminal_window_buttons button.yellow_btn {
+    background: #f4c025;
+}
+
+.terminal_window_buttons button.green_btn {
+    background: #3ec930;
+}

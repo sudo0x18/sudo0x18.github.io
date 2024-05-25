@@ -1,0 +1,110 @@
+.terminal_wrapper {
+    width: 100%;
+    background: #252a33;
+    color: #eee;
+    font-size: 18px;
+    font-family: 'Fira Mono', Consolas, Menlo, Monaco, 'Courier New', Courier, monospace;
+    border-radius: 4px;
+    padding: 75px 45px 35px;
+    position: relative;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    min-height: 100vh;
+}
+
+.terminal {
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.terminal_wrapper.terminal-light {
+    background: #ddd;
+    color: #1a1e24;
+}
+
+
+.terminal_wrapper:after {
+    content: attr(data-terminal-name);
+    position: absolute;
+    color: #a2a2a2;
+    top: 5px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    pointer-events: none;
+}
+
+.terminal_wrapper.terminal-light:after {
+    color: #D76D77;
+}
+
+.terminal_line {
+    white-space: pre;
+}
+
+.terminal_line:before {
+    /* Set up defaults and ensure empty lines are displayed. */
+    content: '';
+    display: inline-block;
+    vertical-align: middle;
+    color: #a2a2a2;
+}
+
+.terminal-light .terminal_line:before {
+    color: #D76D77;
+}
+
+.terminal_input:before {
+    margin-right: 0.75em;
+    content: '$';
+}
+
+.terminal_input[data-terminal-prompt]:before {
+    content: attr(data-terminal-prompt);
+}
+
+.terminal_wrapper:focus-within .terminal_active_input .cursor {
+    position: relative;
+    display: inline-block;
+    width: 0.55em;
+    height: 1em;
+    top: 0.225em;
+    background: #fff;
+    -webkit-animation: blink 1s infinite;
+    animation: blink 1s infinite;
+}
+
+/* Cursor animation */
+
+@-webkit-keyframes blink {
+    50% {
+        opacity: 0;
+    }
+}
+
+@keyframes blink {
+    50% {
+        opacity: 0;
+    }
+}
+
+.terminal_hidden_input {
+    position: fixed;
+    left: -1000px;
+}
+
+/* .terminal-progress {
+    display: flex;
+    margin: .5rem 0;
+  }
+  
+  .terminal-progress-bar {
+    background-color: #fff;
+    border-radius: .25rem;
+    width: 25%;
+  }
+  
+  .terminal_wrapper.terminal-light .terminal-progress-bar {
+    background-color: #000;
+  } */
