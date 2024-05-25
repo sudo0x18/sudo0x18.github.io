@@ -3,7 +3,7 @@ name: publish-to-github-pages
 on:
   push:
     branches:
-      - portfolio_initial_setup
+      - main
 
 permissions:
   contents: read
