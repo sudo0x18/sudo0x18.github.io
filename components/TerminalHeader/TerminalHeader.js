@@ -12,9 +12,9 @@ export default function TerminalHeader(props) {
 
     return (
         <div className='flex justify-between items-center p-4'>
-            <div>
+            <h1 className='text-2xl'>
                 {Username}
-            </div>
+            </h1>
             {
                 showButtons &&
                 <div className="flex flex-row gap-3">

@@ -46,7 +46,7 @@ export default function ArticlesText({ props }) {
                                 <Link className='font-medium text-blue-600 dark:text-blue-400 hover:underline' href={arr[0]} target="_blank">{item.title}</Link>
                                 <br />
                             </div>
-                            <div>{item.description} ...</div>
+                            <div className="text-justify">{item.description} ...</div>
                             <br />
                         </div>
                     )

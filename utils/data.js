@@ -1353,10 +1353,6 @@ const themes = {
 }
 
 const commands = {
-  welcome: {
-    description: "display hero section",
-    content: <WelcomeText />
-  },
   help: {
     description: "check available commands",
     content: <HelpText />

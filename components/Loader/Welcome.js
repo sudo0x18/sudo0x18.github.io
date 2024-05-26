@@ -21,13 +21,14 @@ export default function Welcome({ colorScheme, name = "" }) {
                                 </div>
                             </div>
                             <div class="md:mb-12 lg:mb-0">
-                                <Image
+                                {/* <Image
                                     src={`/profile.jpg`}
                                     width={500}
                                     height={500}
                                     class="w-full rounded-lg shadow-lg dark:shadow-black/20"
                                     alt=""
-                                />
+                                /> */}
+                                <img src={`/profile.jpg`} width={500} height={500} className='w-full rounded-lg shadow-lg dark:shadow-black/20' alt="" loading='lazy'/>
                             </div>
                         </div>
                     </div>

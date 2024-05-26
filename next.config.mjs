@@ -4,7 +4,18 @@ const nextConfig = {
         ignoreDuringBuilds: true
     },
     basePath: "",
-    output: "export"
+    output: "export",
+    images: {
+        remotePatterns: [
+            {
+                protocol: 'http',
+                hostname: 'locahost',
+                port: '3000',
+                pathname: '/',
+            },
+        ],
+    },
+
 };
 
 
