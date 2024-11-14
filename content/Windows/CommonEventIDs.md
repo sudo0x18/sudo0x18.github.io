@@ -15,6 +15,5 @@ date: 2024-11-01
 | `ID 4624` | An account was successfully logged on | This event is generated when a logon session is created. It is generated on the computer that was accessed. |
 | `ID 4625` | An account failed to log on | This event is generated when a logon request fails. It is generated on the computer where access was attempted. |
 | `ID 4648` | A logon was attempted using explicit credentials | This event is generated when a process attempts to log on an account by explicitly specifying that account’s credentials.  This most commonly occurs in batch-type configurations such as scheduled tasks, or when using the RUNAS command. |
-| `ID 4719` | System audit policy was changed | This event is generated computer's system level audit policy was modified - either via Local Security Policy, Group Policy in Active Directory or the audipol command. |
 
 [🏡 Home](/index)
