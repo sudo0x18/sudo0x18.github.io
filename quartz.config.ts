@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       tagId: 'G-JB79XBGNTE'
     },
     locale: "en-US",
-    baseUrl: "sudo0x18.github.io",
+    baseUrl: "sudo0x18.github.io/sudo0x18.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
