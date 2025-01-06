@@ -23,4 +23,4 @@ recharge Food
 have-a "Sleep & Repeat"
 ```
 
-Get started your jouney by understanding [Windows Common Security Events to Monitor](Windows/CommonEventIDs). 
+Get started your jouney by understanding [Windows Common Security Events to Monitor](Windows-Internals/CommonEventIDs). 
