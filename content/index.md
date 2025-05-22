@@ -1,26 +1,21 @@
 ---
-title: Welcome to Cyber Notebook
+title: Welcome to Malware Analysis
 draft: false 
-description: Your go-to resource for comprehensive cybersecurity insights. This notebook is designed to streamline your learning experience, providing organized notes, essential concepts, and practical tips to navigate the dynamic world of cybersecurity. Whether you're just starting or looking to deepen your expertise, Cyber Notebook offers an accessible, structured approach to mastering the core aspects of digital security, threat mitigation, and safe online practices.
+description: Welcome to the Malware Analysis learning repository. This blog contains weekly notes, tools cheatsheets, malware reports, YARA rules, and resources to help you systematically master malware analysis from foundational concepts to advanced research and career preparation.
 ---
 
-We're excited to have you here on this journey into the realm of cybersecurity. This notebook is crafted to be your trusted guide, equipping you with vital knowledge, structured insights, and the latest strategies to protect, defend, and secure digital environments. Dive into organized notes, cutting-edge concepts, and practical tools that bring clarity to complex topics.
+Welcome to the Malware Analysis learning repository. This blog contains weekly notes, tools cheatsheets, malware reports, YARA rules, and resources to help you systematically master malware analysis from foundational concepts to advanced research and career preparation.
 
-Whether you’re a student, a professional, or an enthusiast, Cyber Notebook is here to support your growth and deepen your understanding of this ever-evolving field. Let's unlock the path to a safer digital world, one note at a time.
+## What you are gonna learn?
 
-Happy learning, and welcome to the world of cybersecurity!
+- `1. Foundations/`: Week 1-4 foundational learning notes
+- `2. Static-Dynamic-Analysis/`: Weeks 5-10 static and dynamic analysis
+- `3. Reverse-Engineering/`: Weeks 11-18 reverse engineering and signature development
+- `4. Advanced-Career-Prep/`: Weeks 19+ advanced topics and career prep
+- `Tools/`: Useful tool cheatsheets and guides
+- `Windows Internals/`: Useful tool cheatsheets and guides
+- `Yara-Rules/`: YARA detection rules repository
+- `Malware-Reports/`: Sample malware analysis reports
+- `Resources.md`: Master list of learning resources with links
 
-## 🪴Get Started
-
-We invite you to Cyber Verse — a focused community for cybersecurity professionals and learners. This is a place to discuss key topics, share valuable resources, and stay updated on the latest cybersecurity developments. Whether you’re building skills or exploring new ideas, our community provides a supportive space to grow and connect.
-
-✨ Be a part of [Cyber Verse](https://discord.gg/586pe59D9K) and work with us to secure the digital world. 🔒
-
-```bash
-sudo Wake-UP
-initiate Hacking
-recharge Food
-have-a "Sleep & Repeat"
-```
-
-Get started your jouney by understanding [Windows Common Security Events to Monitor](Windows-Internals/CommonEventIDs). 
+Feel free to open issues or submit pull requests to improve the content!
