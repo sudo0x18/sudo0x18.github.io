@@ -1,14 +1,4 @@
----
-title: "=> Week 8: Behavioral Analysis & API Monitoring"
-draft: false 
-description: The notebook demonstrates Behavioral Analysis & API Monitorin.
-tags:
-    - behavioral-analysis
-    - api-monitoring
-    - api-hooking
-    - windows-api
-    - malware-behavior
----
+# Week 8: Behavioral Analysis & API Monitoring
 
 **Objective:** Learn to monitor malware behavior in real-time by focusing on API calls.
 

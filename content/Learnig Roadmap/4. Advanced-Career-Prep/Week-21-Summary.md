@@ -1,14 +1,4 @@
----
-title: "=> Week 21: Packers, Crypters, and Obfuscation Techniques"
-draft: false 
-description: The notebook demonstrates Packers, Crypters, and Obfuscation Techniques.
-tags:
-    - packing
-    - unpacking
-    - obfuscation
-    - malwareanalysis
-    - manualunpacking
----
+# Week 21: Packers, Crypters, and Obfuscation Techniques
 
 **Objective:** Understand how malware hides itself and how to analyze packed/obfuscated samples.
 

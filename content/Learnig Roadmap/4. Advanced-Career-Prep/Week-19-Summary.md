@@ -1,14 +1,4 @@
----
-title: "=> Week 19: Malware Campaign Tracking & Attribution Basics"
-draft: false 
-description: The notebook demonstrates Malware Campaign Tracking & Attribution Basics.
-tags:
-    - malwarecampaigns
-    - ttp
-    - threatintelligence
-    - ioctracking
-    - attribution
----
+# Week 19: Malware Campaign Tracking & Attribution Basics
 
 **Objective:** Learn how to analyze and track malware campaigns, actors, and infrastructure.
 

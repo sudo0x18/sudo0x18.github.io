@@ -1,15 +1,4 @@
----
-title: "=> Week 12: API Hooking, Inline Hooking & Malware Persistence Techniques"
-draft: false 
-description: The notebook demonstrates API Hooking, Inline Hooking & Malware Persistence Techniques.
-tags:
-    - apihooking
-    - inlinehooking
-    - iathooking
-    - malwarepersistence
-    - sysinternalsautoruns
----
-
+# Week 12: API Hooking, Inline Hooking & Malware Persistence Techniques
 
 **Objective:** Understand API hooking and common malware persistence methods.
 

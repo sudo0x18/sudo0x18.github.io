@@ -1,13 +1,11 @@
 ---
-title: "=> Week 4: Malware Triage & Basic Analysis Tools"
+title: "Week 4: Malware Triage & Basic Analysis Tools"
 draft: false 
 description: The notebook demonstrates Malware Triage & Basic Analysis Tools.
 tags:
-    - malware-triage
-    - pe-analysis
-    - process-monitor
-    - file-inspection
-    - triage-reporting
+    - windows-architecture
+    - kernel-mode
+    - user-mode
 ---
 **Objective:** Learn how to quickly triage malware samples and use basic tools for initial analysis.
 

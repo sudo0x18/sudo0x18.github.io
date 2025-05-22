@@ -1,14 +1,4 @@
----
-title: "=> Week 10: Packing, Obfuscation & Unpacking Techniques"
-draft: false 
-description: The notebook demonstrates Packing, Obfuscation & Unpacking Techniques.
-tags:
-    - packing
-    - obfuscation
-    - unpacking-techniques
-    - anti-debugging
-    - anti-vm
----
+# Week 10: Packing, Obfuscation & Unpacking Techniques
 
 **Objective:** Understand common malware packing/obfuscation methods and basic unpacking strategies.
 

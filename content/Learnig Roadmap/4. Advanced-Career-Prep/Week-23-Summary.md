@@ -1,15 +1,4 @@
----
-title: "=> Week 23: APT Reports Reading & Threat Intelligence Correlation"
-draft: false 
-description: The notebook demonstrates APT Reports Reading & Threat Intelligence Correlation.
-tags:
-    - aptreports
-    - threatintelligence
-    - mitreattack
-    - iocmapping
-    - timelinemapping
----
-
+# Week 23: APT Reports Reading & Threat Intelligence Correlation
 
 **Objective:** Learn to read advanced threat reports and correlate with your findings.
 

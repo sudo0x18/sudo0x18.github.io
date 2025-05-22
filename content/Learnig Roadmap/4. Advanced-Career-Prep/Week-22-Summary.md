@@ -1,14 +1,4 @@
----
-title: "=> Week 22: Custom Tool Development for Malware Analysis"
-draft: false 
-description: The notebook demonstrates Custom Tool Development for Malware Analysis.
-tags:
-    - tooldevelopment
-    - automation
-    - python
-    - malwareanalysis
-    - iocextraction
----
+# Week 22: Custom Tool Development for Malware Analysis
 
 **Objective:** Build small custom tools to automate and support your analysis.
 

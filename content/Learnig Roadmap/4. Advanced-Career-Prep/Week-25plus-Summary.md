@@ -1,15 +1,4 @@
----
-title: "=> Week 25: Career Focus - Portfolio Building & Certification Prep"
-draft: false 
-description: The notebook demonstrates Career Focus - Portfolio Building & Certification Preparation.
-tags:
-    - careerportfolio
-    - certificationprep
-    - githubportfolio
-    - grem
-    - malwareanalysisinterviews
-    - linkedinsecurity
----
+# Week 25: Career Focus - Portfolio Building & Certification Prep
 
 **Objective:** Build a strong public profile and prepare for industry-recognized certifications.
 

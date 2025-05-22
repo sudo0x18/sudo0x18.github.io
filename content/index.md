@@ -1,7 +1,7 @@
 ---
 title: Welcome to Malware Analysis
 draft: false 
-description: Welcome to the Malware Analysis learning repository. This notebook contains weekly notes, tools cheatsheets, malware reports, YARA rules, and resources to help you systematically master malware analysis from foundational concepts to advanced research and career preparation.
+description: Welcome to the Malware Analysis learning repository. This blog contains weekly notes, tools cheatsheets, malware reports, YARA rules, and resources to help you systematically master malware analysis from foundational concepts to advanced research and career preparation.
 ---
 
 Welcome to the Malware Analysis learning repository. This blog contains weekly notes, tools cheatsheets, malware reports, YARA rules, and resources to help you systematically master malware analysis from foundational concepts to advanced research and career preparation.
