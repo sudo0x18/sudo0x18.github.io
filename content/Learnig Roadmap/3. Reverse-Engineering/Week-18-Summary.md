@@ -1,4 +1,14 @@
-# Week 18: Final Project & Continuous Learning
+---
+title: "=> Week 18: Final Project & Continuous Learning"
+draft: false 
+description: The notebook demonstrates Final Project & Continuous Learning.
+tags:
+    - capstoneproject
+    - yara
+    - reporting
+    - continuouslearning
+    - advancedmalwareanalysis
+---
 
 **Objective:** Consolidate learning through a capstone project and plan for continuous skill development.
 

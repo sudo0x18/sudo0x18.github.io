@@ -1,4 +1,14 @@
-# Week 15: YARA Rules Fundamentals
+---
+title: "=> Week 15: YARA Rules Fundamentals"
+draft: false 
+description: The notebook demonstrates YARA Rules Fundamentals.
+tags:
+    - yara
+    - rules
+    - malwaredetection
+    - patternmatching
+    - rulewriting
+---
 
 **Objective:** Learn how to write YARA rules for malware detection.
 

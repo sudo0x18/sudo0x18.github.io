@@ -1,4 +1,14 @@
-# Week 20: Network Traffic Analysis & Malware C2 Infrastructure
+---
+title: "=> Week 20: Network Traffic Analysis & Malware C2 Infrastructure"
+draft: false 
+description: The notebook demonstrates Network Traffic Analysis & Malware C2 Infrastructure.
+tags:
+    - c2architecture
+    - pcapanalysis
+    - malwareioc
+    - encryptedtraffic
+    - networksecurity
+---
 
 **Objective:** Learn how to analyze and track malware communication (Command & Control).
 

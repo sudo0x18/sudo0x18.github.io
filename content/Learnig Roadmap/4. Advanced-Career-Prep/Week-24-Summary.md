@@ -1,4 +1,14 @@
-# Week 24: Threat Report Writing & Open Publishing
+---
+title: "=> Week 24: Threat Report Writing & Open Publishing"
+draft: false 
+description: The notebook demonstrates Threat Report Writing & Open Publishing.
+tags:
+    - threatreportwriting
+    - openpublishing
+    - iocdocumentation
+    - visualaids
+    - githubpages
+---
 
 **Objective:** Learn how to document your research professionally and publish it.
 

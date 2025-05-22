@@ -1,9 +1,13 @@
 ---
-title: "Week 1: Windows OS Architecture & Processes"
+title: "=> Week 1: Windows OS Architecture & Processes"
 draft: false 
 description: The notebook demonstrates Windows Architecture and Processes.
 tags:
-    - windows-architecture
+    - windows-internals
+    - process-management
+    - memory-management
+    - dll-analysis
+    - system-calls
     - kernel-mode
     - user-mode
 ---

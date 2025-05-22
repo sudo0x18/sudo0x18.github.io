@@ -1,4 +1,15 @@
-# Week 17: Threat Hunting & Incident Response with Malware Analysis
+---
+title: "=> Week 17: Threat Hunting & Incident Response with Malware Analysis"
+draft: false 
+description: The notebook demonstrates Threat Hunting & Incident Response with Malware Analysis.
+tags:
+    - threathunting
+    - incidentresponse
+    - ioc
+    - automation
+    - casestudy
+---
+
 
 **Objective:** Apply malware analysis knowledge in threat hunting and incident response.
 

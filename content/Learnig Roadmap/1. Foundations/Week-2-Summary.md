@@ -1,11 +1,13 @@
 ---
-title: "Week 2: Windows Registry & DLL Injection Basics"
+title: "=> Week 2: Windows Registry & DLL Injection Basics"
 draft: false 
 description: The notebook demonstrates Windows Registry & DLL Injection Basics.
 tags:
-    - windows-architecture
-    - kernel-mode
-    - user-mode
+    - windows-registry
+    - dll-injection
+    - malware-persistence
+    - process-monitoring
+    - windows-services
 ---
 
 **Objective:** Learn how Windows Registry works, services, and DLL injection techniques.

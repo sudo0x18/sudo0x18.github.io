@@ -1,4 +1,14 @@
-# Week 6: Dynamic Analysis Introduction & Setup
+---
+title: "=> Week 6: Dynamic Analysis Introduction & Setup"
+draft: false 
+description: The notebook demonstrates Dynamic Analysis Introduction & Setup.
+tags:
+    - dynamic-analysis
+    - malware-lab
+    - vm-setup
+    - network-monitoring
+    - behavior-analysis
+---
 
 **Objective:** Set up your malware analysis lab and start running malware safely in controlled environments.
 

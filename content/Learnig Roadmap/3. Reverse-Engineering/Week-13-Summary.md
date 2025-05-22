@@ -1,4 +1,14 @@
-# Week 13: Advanced Debugging & Anti-Debugging Techniques
+---
+title: "=> Week 13: Advanced Debugging & Anti-Debugging Techniques"
+draft: false 
+description: The notebook demonstrates Advanced Debugging & Anti-Debugging Techniques.
+tags:
+    - advanceddebugging
+    - antidebugging
+    - bypassantidebug
+    - windbg
+    - kerneldebugging
+---
 
 **Objective:** Master debugging malware samples and learn how malware uses anti-debugging tricks.
 

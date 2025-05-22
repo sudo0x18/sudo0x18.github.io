@@ -1,4 +1,14 @@
-# Week 9: Introduction to Debugging & Dynamic Analysis Tools
+---
+title: "=> Week 9: Introduction to Debugging & Dynamic Analysis Tools"
+draft: false 
+description: The notebook demonstrates Introduction to Debugging & Dynamic Analysis Tools.
+tags:
+    - debugging
+    - dynamic-analysis
+    - x64dbg
+    - ollydbg
+    - malware-debugging
+---
 
 **Objective:** Learn the basics of debugging malware using tools like x64dbg and OllyDbg.
 

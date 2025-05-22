@@ -1,4 +1,14 @@
-# Week 7: Advanced Static Analysis & Intro to Disassembly
+---
+title: "=> Week 7: Advanced Static Analysis & Intro to Disassembly"
+draft: false 
+description: The notebook demonstrates Advanced Static Analysis & Intro to Disassembly.
+tags:
+    - disassembly
+    - static-analysis
+    - assembly-language
+    - ida-ghidra
+    - function-analysis
+---
 
 **Objective:** Dive deeper into binary structure and start understanding assembly code.
 

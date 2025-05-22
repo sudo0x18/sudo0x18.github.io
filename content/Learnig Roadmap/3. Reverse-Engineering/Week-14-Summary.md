@@ -1,4 +1,15 @@
-# Week 14: Memory Forensics & Advanced Code Analysis
+---
+title: "=> Week 14: Memory Forensics & Advanced Code Analysis"
+draft: false 
+description: The notebook demonstrates Memory Forensics & Advanced Code Analysis.
+tags:
+    - memoryforensics
+    - volatility
+    - codeinjection
+    - controlflow
+    - advancedcodeanalysis
+---
+
 
 **Objective:** Learn memory analysis techniques and in-depth malware code inspection.
 

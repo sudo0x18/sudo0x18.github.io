@@ -1,4 +1,15 @@
-# Week 5: Static Malware Analysis Fundamentals
+---
+title: "=> Week 5: Static Malware Analysis Fundamentals"
+draft: false 
+description: The notebook demonstrates Static Malware Analysis Fundamentals.
+tags:
+    - static-analysis
+    - pe-structure
+    - string-extraction
+    - import-analysis
+    - packer-detection
+---
+
 
 **Objective:** Learn to analyze malware binaries without running them, focusing on PE structure, strings, and imports.
 

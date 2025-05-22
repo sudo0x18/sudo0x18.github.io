@@ -1,4 +1,15 @@
-# Sysinternals Tools Cheatsheet
+---
+title: "=> Sysinternals Tools Cheatsheet"
+draft: false 
+description: The notebook demonstrates Threat Report Writing & Open Publishing.
+tags:
+    - sysinternals
+    - windowssecurity
+    - malwareanalysis
+    - forensics
+    - processmonitor
+---
+
 
 ## Process Explorer
 - View detailed process info, handle and DLL usage

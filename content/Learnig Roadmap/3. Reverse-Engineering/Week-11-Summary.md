@@ -1,4 +1,14 @@
-# Week 11: Deep Dive into Assembly & Advanced Reverse Engineering
+---
+title: "=> Week 11: Deep Dive into Assembly & Advanced Reverse Engineering"
+draft: false 
+description: The notebook demonstrates Deep Dive into Assembly & Advanced Reverse Engineering.
+tags:
+    - x86assembly
+    - callingconventions
+    - codeobfuscation
+    - IDAPro
+    - stringdecryption
+---
 
 **Objective:** Build strong assembly language skills and learn advanced reverse engineering techniques.
 

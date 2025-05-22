@@ -1,11 +1,13 @@
 ---
-title: "Week 3: Malware Lifecycle & Infection Vectors"
+title: "=> Week 3: Malware Lifecycle & Infection Vectors"
 draft: false 
 description: The notebook demonstrates Malware Lifecycle & Infection Vectors.
 tags:
-    - windows-architecture
-    - kernel-mode
-    - user-mode
+    - malware-lifecycle
+    - infection-vectors
+    - persistence-techniques
+    - evasion-methods
+    - malware-analysis
 ---
 
 **Objective:** Understand how malware infects systems, propagates, and persists.

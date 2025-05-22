@@ -1,4 +1,12 @@
-# 🧠 Kernel Mode vs. User Mode in Windows OS
+---
+title: "=> Kernel Mode vs. User Mode in Windows OS"
+draft: false 
+description: The notebook demonstrates 🧠 Kernel Mode vs. User Mode in Windows OS.
+tags:
+    - windows-architecture
+    - kernel-mode
+    - user-mode
+---
 
 This document provides an in-depth understanding of the **User Mode vs. Kernel Mode** execution environments in the Windows Operating System. It highlights key differences, architecture decisions, and security implications — all essential for anyone diving deep into OS internals, especially for malware analysis or security research.
 
